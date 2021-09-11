@@ -14,10 +14,10 @@ IT skills I have been practicing or am currently learning about:
   - PHP
 
 
-#### About me :blond_haired_person:
+#### About me
 Family: :family_man_woman_girl:	
 
-Hobbies: :weight_lifting:	:running:	:computer: :juggling_person:	  (:hiking_boot: :tent:)
+Hobbies: :weight_lifting:	:running:	:computer: :juggling_person: :hiking_boot:
 
 
 📫 miettinen.akseli@gmail.com
